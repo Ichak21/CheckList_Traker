@@ -1,0 +1,11 @@
+{
+  "name": "check_list_tracker",
+  "version": "1.0.0",
+  "description": "Checklist manger, from xl form",
+  "main": "main.ts",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "Ichak",
+  "license": "MIT"
+}
